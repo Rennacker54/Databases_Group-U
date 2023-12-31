@@ -12,5 +12,5 @@ The database was queried according to the following [queries](example.txt)
 #### Objective 4
 Data was investigated following [this](example.txt) notebook.
 #### Presentation
-The project presentation is linked [here](example.txt)
+The project presentation is linked [here](DBProject_Group U.pptx)
 
