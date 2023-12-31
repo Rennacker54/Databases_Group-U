@@ -1,7 +1,7 @@
 # Databases_Group-U
 ### Databases class 23/24 TU Graz - Group Project, Group U
 #### Data
-Data is downloaded from kaggle.com, using this link https://www.kaggle.com/datasets/usdot/flight-delays?select=airports.csv
+Data is downloaded from kaggle.com, using [this](https://www.kaggle.com/datasets/usdot/flight-delays?select=airports.csv) link https://www.kaggle.com/datasets/usdot/flight-delays?select=airports.csv
 
 #### Objective 1
 Concept is provided [here]([example.txt](https://github.com/Rennacker54/Databases_Group-U/blob/main/Objective%201_DBConcept_Group%20U.pdf))
