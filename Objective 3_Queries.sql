@@ -1,0 +1,13 @@
+UPDATE Flight
+	SET DEPARTURE_DELAY = 0.0
+	WHERE DEPARTURE_DELAY < 0.0;
+
+SELECT AVG(Departure_Delay)
+	FROM (Airport AS A
+	INNER JOIN Flight as F
+	ON F.ORIGIN_AIRPORT = A.IATA_CODE)
+WHERE A.Latitude BETWEEN %s AND %s;
+
+SELECT A.Latitude, F.Departure_Delay
+    FROM Airport AS A
+INNER JOIN Flight AS F ON F.ORIGIN_AIRPORT = A.IATA_CODE
