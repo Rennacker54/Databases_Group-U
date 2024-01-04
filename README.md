@@ -12,5 +12,5 @@ The database was queried according to the following [queries](https://github.com
 #### Objective 4
 Data was investigated following [this](https://github.com/Rennacker54/Databases_Group-U/blob/main/Objective%204_Presenting%20Results.ipynb)  notebook.
 #### Presentation
-The project presentation is linked [here](https://github.com/Rennacker54/Databases_Group-U/blob/main/DBProject_Group%20U.pptx)
+The project presentation is linked [here](https://github.com/Rennacker54/Databases_Group-U/blob/main/DBProject_Group%20U.pptx) and its pdf version [here](https://github.com/Rennacker54/Databases_Group-U/blob/main/DBProject_Group%20U.pdf)
 
